@@ -1,0 +1,89 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.container-fluid {
+  height: 100%;
+  width: 75%;
+}
+#row1 {
+  height: 10%;
+}
+#row2 {
+  height: 5%;
+}
+#row3 {
+  height: 85%;
+}
+#row4 {
+  height: 33%;
+}
+#row5 {
+  height: 67%;
+}
+#row6 {
+  height: 50%;
+}
+#row7 {
+  height: 50%;
+}
+#row8 {
+  height: 10%;
+}
+#row9 {
+  height: 13%;
+}
+#row10 {
+  height: 17%;
+}
+#row11 {
+  height: 15%;
+}
+#row12 {
+  height: 17%;
+}
+#row13 {
+  height: 28%;
+}
+div[class^="col-xs-"], div[class*="col-xs-"]{
+  height: 100%;
+  box-sizing: border-box;
+  border: 1px black solid;
+}
+#un {
+  background-color: red;
+}
+#deux {
+  background-color: green;
+}
+#trois {
+  background-color: purple;
+}
+#quatre {
+  background-color: blue;
+}
+#cinq {
+  background-color: green;
+}
+#six {
+  background-color: grey;
+}
+#sept {
+  background-color: yellow;
+}
+#huit {
+  background-color: red;
+}
+#neuf {
+  background-color: pink;
+}
+#dix {
+  background-color: blue;
+}
+#onze {
+  background-color: white;
+}
+#douze {
+  background-color: red;
+}
